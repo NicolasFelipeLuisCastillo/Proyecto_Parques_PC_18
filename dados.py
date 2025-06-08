@@ -28,11 +28,11 @@ def main():
         print("Modo no válido. Usa 'real' o 'desarrollador'.")
         return
 
-    print(f"Resultado: dado1 = {dado1}, dado2 = {dado2}")
-    print(f"Suma total: {dado1 + dado2}")
+    print("Resultado: dado1 = ",dado1, "dado2 =", dado2)
+    print("Suma total: ",dado1 + dado2)
     
     if dado1 == dado2:
-        print("¡Sacaste un par! Tienes derecho a repetir turno.")
+        print("Sacaste un par. Tienes derecho a repetir turno.")
 
 if __name__ == "__main__":
     main()
