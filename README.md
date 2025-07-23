@@ -17,5 +17,5 @@ UPDATE 3
 Se creó el documento final en formato PDF que incluye resumen ejecutivo, enlace a este repositorio y un video de youtube mostrando todas las mecanicas.
 
 ¿Como ejecutar?
-1. Cargar el archivo pruebas.py a un editor de codigo como VSCode. 
+1. Cargar el archivo FINAL_UPDATE_2.py a un editor de codigo como VSCode. 
 2. Ejecutar el código.
